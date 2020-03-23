@@ -1,0 +1,1 @@
+This is LeonidasTelik’s first git project!
